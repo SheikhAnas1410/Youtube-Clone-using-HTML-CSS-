@@ -1,0 +1,151 @@
+/* header */
+.header{
+    display: flex;   
+}
+
+
+.header-left{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.header-search{
+    display: flex;
+    width: 900px;
+    align-items: center ;
+ 
+   
+}
+.header-search button{
+    display: flex;
+    align-items: center ;
+    
+}
+
+.header-icon{
+    display: flex; 
+    cursor: pointer;
+    align-items: center;
+     
+}
+
+/* sidebar */
+.sidebar_categories {
+    display: flex ;
+    flex-direction: column;
+    align-items:flex-start;
+    cursor: pointer;
+  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
